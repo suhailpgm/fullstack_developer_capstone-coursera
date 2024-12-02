@@ -124,3 +124,17 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+.team {
+    margin-top: 20px;
+}
+.team-member {
+    margin-bottom: 15px;
+}
+.contactus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-our-team{
+    margin-left: 50px;;
+}
