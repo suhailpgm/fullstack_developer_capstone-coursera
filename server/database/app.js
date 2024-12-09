@@ -75,7 +75,7 @@ try {
     res.json(dealershipsByState);
   } catch (error) {
     res.status(500).json({ error: 'Error fetching documents' });
-  }
+  }     
 });
 
 // Express route to fetch dealer by a particular id
